@@ -23,9 +23,3 @@ Jobs Page
 Job Category Filter
 
 ![Screenshot 2023-01-28 at 8 47 22 PM](https://user-images.githubusercontent.com/114575434/215274869-908a1630-83c9-44c6-bf37-dfb76262a895.png)
-
-Tools and Technology Used:-
-
-1.HTML CSS AND JS
-2.React JS
-4.VS Code
